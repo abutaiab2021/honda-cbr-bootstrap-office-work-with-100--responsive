@@ -7,8 +7,13 @@
     padding: 15px;
 }
 
-.menu-bar-anchor-text{
-    margin-right: 50px;
+.menu-bar-anchor-text a:hover{
+    color: #E76F51;
+}
+
+.menu-bar-anchor-text {
+    margin-right: 21px;
+    margin-top: 7px;
 }
 
 .banner-image{
